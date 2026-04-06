@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Alcides González
 
-<!--
-**AlcidesGonzalezR/AlcidesGonzalezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Business Intelligence | Experienced Logistics and Finance Professional*
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profesional con **más de 25 años de experiencia** consolidada en los sectores **Financiero (Banca)** y **Energía (Combustibles)**.
+
+Mi expertise abarca:
+- **Control Financiero**: Auditoría Interna, Cobranzas
+- **Logística Operativa**: Transporte de Combustible, Supervisión en Estaciones de Servicio
+- **Gestión de Datos Clave**: Analista de Datos Maestro, Control de Inventario en Plantas
+
+## Tecnologías que uso
+
+`Power BI` • `Tableau` • `SQL` • `Python` • `Excel Avanzado` • `ETL`
+
+## Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AlcidesGonzalezR)
+
+---
+
+*"Transformando datos financieros y logísticos en decisiones estratégicas"*
